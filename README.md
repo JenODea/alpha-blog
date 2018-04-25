@@ -1,5 +1,7 @@
 # README
 
+This is our first alpha-blog app of the course I'm taking
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
